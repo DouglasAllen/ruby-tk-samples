@@ -1,2 +1,1 @@
-# ruby-tk-samples
-sample programs using tk with ruby
+http://www.tkdocs.com/tutorial/index.html
